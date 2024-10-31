@@ -169,10 +169,9 @@ footer .inner .list li:last-child{font-weight: bold; font-family: 'Exo 2', sans-
     section.innovations .imgBox .inner .bottom p .clear {display: none;}
     section.innovations .imgBox .inner .bottom p{float: none; margin-bottom: 30px;}
     section.innovations .imgBox .inner .bottom a {float: none; margin-left: 32%;}
-    section.me {padding: 50px 0; margin-bottom: 80px;}
+    section.me {padding: 50px 0 ; margin-bottom: 80px;}
     section.me ul.in li em {display: block; float: none; width: 100%; font-size: 17px; margin-bottom: 5px;}
     section.sns ul li {width: 100%;}
-    section.sns ul li a p.img {height: 380px;}
     footer .inner .ftLogo {float: none; width: 100%; text-align: center;}
     footer .inner .address {float: none; width: 100%; margin-left: 32%;}
     footer .inner .address li:last-child {margin-left: 12%;}
